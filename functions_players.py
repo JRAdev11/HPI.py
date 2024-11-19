@@ -1,3 +1,6 @@
+# This code is licensed under the MIT License.
+# See the LICENSE file in the root of this repository for details.
+
 def players(heights):
     # Definition of the height ranges by position
     positions = {
